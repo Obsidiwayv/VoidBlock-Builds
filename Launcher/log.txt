@@ -1,3 +1,4 @@
 Refresh64 Logs File
 ------------
 ErebusLauncher is already updatedErebusLauncher is already updated
+Terminated ErebusLauncher.exe
