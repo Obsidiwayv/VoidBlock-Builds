@@ -1,6 +1,8 @@
 Auth System is handled by ely.by: go the repo provided below
 to download a version of the authlib depending on the game the version YOU are using
 
+download it and place it in your minecraft directory as Authlib.jar
+
 https://github.com/yushijinhun/authlib-injector/releases?page=1
 
 and finally 
