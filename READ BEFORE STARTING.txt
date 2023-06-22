@@ -1,0 +1,13 @@
+Auth System is handled by ely.by: go the repo provided below
+to download a version of the authlib depending on the game the version YOU are using
+
+https://github.com/yushijinhun/authlib-injector/releases?page=1
+
+and finally 
+
+you can either use forge or fabric to use skins.
+
+recommended mods:
+
+https://modrinth.com/mod/customskinloader
+https://modrinth.com/plugin/custom-player-models - ability to create custom hats and other stuff.
